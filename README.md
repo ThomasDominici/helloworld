@@ -1,4 +1,4 @@
 # helloworld
 Je suis Thomas  
 - GitHub est compliqué
-- mais ça va  
+- mais ça va le faire
